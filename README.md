@@ -111,7 +111,7 @@ The main objective of this project is to demonstrate how **Machine Learning can 
 
 ## 👩‍💻 Author
 
-**Deepika Konderu**
+**Konderu Deepika**
 
 ---
 
